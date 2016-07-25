@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestNG-Vanila-Project"
+           tests="10"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.011">
+  <properties />
+  
+  
+            <testcase name="Test3" time="0.000" classname="com.Tests.Tests" />
+                <testcase name="Test1" time="0.001" classname="com.Tests.Tests" />
+                <testcase name="Test5" time="0.001" classname="com.Tests.Tests" />
+                <testcase name="Test2" time="0.000" classname="com.Tests.Tests" />
+                <testcase name="Test3" time="0.000" classname="com.Tests.Tests" />
+                <testcase name="Test5" time="0.000" classname="com.Tests.Tests" />
+                <testcase name="Test1" time="0.008" classname="com.Tests.Tests" />
+                <testcase name="Test4" time="0.001" classname="com.Tests.Tests" />
+                <testcase name="Test2" time="0.000" classname="com.Tests.Tests" />
+                <testcase name="Test4" time="0.000" classname="com.Tests.Tests" />
+      
+</testsuite>

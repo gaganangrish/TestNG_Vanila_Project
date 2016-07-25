@@ -1,0 +1,23 @@
+<suite name="TestNG-Vanila-Project" 
+	preserve-order="true">
+	<listeners>
+		<listeners>
+			<listener class-name="listeners.MyAnnotationTransformer"></listener>
+		</listeners>
+	</listeners>
+
+	<test name="TestNG-Vanila-Project" group-by-instances="true">
+
+		<!-- <parameter name="Value" value="1" /> <parameter name="Value" value="2" 
+			/> -->
+
+		<classes>
+			<!-- <class name="com.Main.WebTestFactory" /> -->
+			<class name="com.Tests.Tests2" />
+			<class name="com.Tests.EmailResultsTest" />
+
+		</classes>
+	</test>
+
+
+</suite>
